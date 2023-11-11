@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccountData.cs" />
     <Compile Include="ContactCreationTest.cs" />
     <Compile Include="ContactData.cs" />
     <Compile Include="GroupData.cs" />
