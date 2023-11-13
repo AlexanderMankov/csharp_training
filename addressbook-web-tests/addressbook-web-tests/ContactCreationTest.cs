@@ -10,7 +10,7 @@ namespace WebAddressbookTests
     public class ContactCreationTests : TestBase
     {
         [Test]
-        public void TheUntitledTestCaseTest()
+        public void ContactCreationTest()
         {
             navigationHelper.OpenHomePage();
             loginHelper.Login(new AccountData("admin", "secret"));
